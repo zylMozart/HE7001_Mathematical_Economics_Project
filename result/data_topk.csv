@@ -1,0 +1,21 @@
+,index,Symbol,Name,Last Sale,Net Change,% Change,Market Cap,Country,IPO Year,Volume,Sector,Industry
+0,20,AAPL,Apple,$167.83 ,1.359,0.82%,2.90971E+12,United States,1980,27079416,Technology,Computer Manufacturing
+1,4661,MSFT,Microsoft,$288.69 ,0.32,0.11%,2.14895E+12,United States,1986,9980710,Technology,Computer Software: Prepackaged Software
+2,3133,GOOG,Alphabet,$105.40 ,0.28,0.27%,1.34986E+12,United States,2004,8245032,Technology,Internet and Information Services
+3,428,AMZN,Amazon,$104.58 ,2.28,2.23%,1.0643E+12,United States,1997,33613987,Consumer Discretionary,Catalog/Specialty Distribution
+4,7029,TSLA,Tesla,$182.44 ,-1.8717,-1.02%,5.78204E+11,United States,2010,67732723,Consumer Discretionary,Auto Manufacturing
+5,3866,JNJ,Johnson\&Johnson,$161.98 ,0.97,0.60%,5.05352E+11,United States,,3474933,Health Care,Biotechnology: Pharmaceutical Preparations
+6,7225,V,Visa,$232.62 ,-0.98,-0.42%,4.88917E+11,United States,,1490079,Consumer Discretionary,Business Services
+7,7635,XOM,Exxon Mobil,$116.54 ,-0.4,-0.34%,4.74433E+11,United States,,5434005,Energy,Oil & Gas Production
+8,7153,UNH,UnitedHealth,$487.44 ,-17.045,-3.38%,4.54702E+11,United States,,2757728,Health Care,Medical Specialities
+9,3876,JPM,JP Morgan,$140.93 ,-0.47,-0.33%,4.1184E+11,United States,,4658484,Finance,Major Banks
+10,7544,WMT,Walmart,$150.26 ,0.41,0.27%,4.05049E+11,United States,,1945661,Consumer Discretionary,Department/Specialty Retail Stores
+11,5055,NVO,Novo Nordisk,$165.09 ,-4.69,-2.76%,3.71188E+11,Denmark,,1003523,Health Care,Biotechnology: Pharmaceutical Preparations
+12,5476,PG,Procter\&Gamble ,$150.94 ,-0.27,-0.18%,3.56089E+11,United States,,1600091,Consumer Discretionary,Package Goods/Cosmetics
+13,4319,MA,Mastercard,$373.04 ,0.715,0.19%,3.55593E+11,United States,2006,714218,Consumer Discretionary,Business Services
+14,4195,LLY,Eli Lilly,$370.20 ,0.29,0.08%,3.52559E+11,United States,,722264,Health Care,Biotechnology: Pharmaceutical Preparations
+15,3296,HD,Home Depot,$297.56 ,-1.39,-0.47%,3.0133E+11,United States,,1317095,Consumer Discretionary,RETAIL: Building Materials
+16,25,ABBV,AbbVie,$160.43 ,0.84,0.53%,2.83021E+11,United States,2012,1495254,Health Care,Other Pharmaceuticals
+17,731,AVGO,Broadcom,$634.01 ,1.69,0.27%,2.64334E+11,United States,2009,683710,Technology,Semiconductors
+18,5439,PEP,PepsiCo,$184.62 ,-0.21,-0.11%,2.5428E+11,United States,,822248,Consumer Staples,Beverages (Production/Distribution)
+19,614,ASML,ASML Holding,$626.62 ,-16.71,-2.60%,2.47258E+11,Netherlands,1995,1485385,Technology,Industrial Machinery/Components
